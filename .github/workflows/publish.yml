@@ -41,12 +41,13 @@ jobs:
     - name: Install tutors-html
       run: |
           npm install --global tutors-html
-          npm install --global tutors-json
+          npm install --global tutors-publish
     
     - name: Build site
       run: |
           cd build
-          tutors-json
+          mkdir public-site
+          tutors-publish
           mv json public-site
           tutors-html
 

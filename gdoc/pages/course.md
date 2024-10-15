@@ -1,2 +1,2 @@
-Tutors using Gdoc
-Create courses with intuitive software
+Artificial Intelligence
+An introduction to AI
