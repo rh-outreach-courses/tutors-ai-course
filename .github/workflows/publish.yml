@@ -46,7 +46,7 @@ jobs:
     - name: Build site
       run: |
           cd build
-          mkdir public-site
+          # mkdir public-site
           # tutors-publish
           # mv json public-site
           tutors-html
