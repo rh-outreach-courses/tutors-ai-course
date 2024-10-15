@@ -47,8 +47,8 @@ jobs:
       run: |
           cd build
           mkdir public-site
-          tutors-publish
-          mv json public-site
+          # tutors-publish
+          # mv json public-site
           tutors-html
 
     - name: Deploy to GitHub Pages
