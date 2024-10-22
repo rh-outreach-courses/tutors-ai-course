@@ -1,3 +1,0 @@
-Tutors Dev
-
-Redesign TutorsDev
