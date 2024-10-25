@@ -6,4 +6,5 @@
 - [AI Models](docs/01.AI%20Models.md)
 - [Prompt Engineering](docs/02.Prompt%20Engineering.md)
 - [Caveats of AI](docs/03.Caveats%20of%20AI.md)
-- [Quiz](docs/04.Beginner%20Quiz.md)
+- [Next Steps](docs/04.Next%20Steps.md)
+- [Quiz](docs/05.Beginner%20Quiz.md)
