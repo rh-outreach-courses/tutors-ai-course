@@ -39,3 +39,40 @@ This is where open source models become important. The exact definition of what 
 
 [Hugging Face](https://huggingface.co/) is a platform for AI and machine learning. The platform hosts models, datasets, examples of AI infused applications, and a range of courses. Anyone can download the pretrained base models and fine tune the model for their particular use case.
 
+## Test Your Knowledge
+
+**Question 1:** What is generative AI?
+A) An intelligent system capable of generating more advanced models.
+B) Generative AI models produce predictions about the future.
+C) Generative AI models don't generate anything new they only summarise content provided.
+D) An AI system that can create new content with instruction from a user. 
+<details>
+  <summary>Reveal answer</summary>
+  Correct Answer: D) An AI system that can create new content with instruction from a user.  
+</details>
+
+---
+
+**Question 2:** What does it mean for an AI model to be open source?
+A) It is free to interact with the model.
+B) Users must purchase a once off subscription for unlimited use of the AI model.
+C) Any member of the general public can alter and use the model.
+D) There are no restrictions on the use of the model but the code and dataset to create the model is kept secret. 
+<details>
+  <summary>Reveal answer</summary>
+  Correct Answer: C) Any member of the general public can alter and use the model. 
+</details>
+
+---
+
+**Question 3:** Is it true that a chat bot can be used to grade the quality of another chat bot?
+A) True
+B) False
+<details>
+  <summary>Reveal answer</summary>
+  Correct Answer: A) True
+  <br>
+  LLM as Judge is a technique where one chat bot analyses the performance of another chat bot.
+</details>
+
+---
