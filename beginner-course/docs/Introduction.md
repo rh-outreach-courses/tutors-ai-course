@@ -9,8 +9,8 @@ I've been asked to write an introduction to this AI course and I thought I'd lik
 
 However, there are many definitions of artificial intelligence, and lots of discussion about how it's going to change in the future.
 
-* [Landscape](./00.Landscape.md) - A ~~light~~ hearted exploration of themes
-* [Climate](./00.Climate.md) - Maybe AI is not as new as we thought?
-* [Foundations](./00.Foundations.md) - A motivation to learn the maths.
+* [Landscape](./Landscape.md) - A ~~light~~ hearted exploration of themes
+* [Climate](./Climate.md) - Maybe AI is not as new as we thought?
+* [Foundations](./Foundations.md) - A motivation to learn the maths.
 
 
