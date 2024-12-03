@@ -1,12 +1,16 @@
 # Create Your Own Dataset
 
-Bearing in mind the qualities of a good dataset create your own dataset [here](https://machinelearningforkids.co.uk/).
+Bearing in mind the qualities of a good dataset, try [creating a dataset](https://machinelearningforkids.co.uk/).
 
-1. Name and define the type of dataset to create
+Prerequisite: Create an account/ Login to Machine Learning for Kids
+
+1. Select *Projects* from the menu and then click *Add a new project*.
+
+2. Name and define the type of dataset to create
 
 ![Type of Datasets](../images/dataset-options.png)
 
-2. Click on the train step and gather data. 
+3. Click *Train* and gather data. 
 
 ![Button for Train Step](../images/train-step.png)
 
@@ -20,11 +24,11 @@ If you choose to build a dataset to predict numbers you need to create a spreads
 
 ![Dataset to Predict Height](../images/predict-height.png)
 
-3. When the dataset is complete click on the learn and test step. 
+4. When the dataset is complete click *Learn & Test*. 
 
 ![Button for Learn and Test Step](../images/test-step.png)
 
-The model is created in the background. Enter in a value to test the accuracy of the model. 
+The system creates a model in the background. Enter a series of values to test the accuracy of the model. For example provide an image for the model to identify.
 
 ![Result of Testing Model](../images/test-result.png)
 
