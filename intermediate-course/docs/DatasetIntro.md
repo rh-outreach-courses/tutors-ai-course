@@ -5,7 +5,7 @@ Data is the foundation of any AI model. An AI model is only as good as the data 
 
 ## What is Data
 
-Data is any fact gathered through observations and measurements. Data can take many forms, namely text or numerical. Data is the raw information that lacks context. A measurement of five means nothing, but if someone reported that they saw five red cars in the car park that now becomes valuable information with context.
+Data is any fact gathered through observations and measurements. Data can take many forms, namely text or numerical. Data is most valuable when it is given context. For example, a measurement of five means nothing, but if someone reported that they saw five red cars in the car park that now becomes useful information providing insights.
 
 ## What is a Dataset
 
