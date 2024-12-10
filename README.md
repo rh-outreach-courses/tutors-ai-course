@@ -7,4 +7,3 @@
 - [Prompt Engineering](docs/02.Prompt%20Engineering.md)
 - [Caveats of AI](docs/03.Caveats%20of%20AI.md)
 - [Next Steps](docs/04.Next%20Steps.md)
-- [Quiz](docs/05.Beginner%20Quiz.md)
