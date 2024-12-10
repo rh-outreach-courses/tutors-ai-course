@@ -1,5 +1,7 @@
 # Tutors AI course
 
+To complement the structured course below try out some of these [resources](Resources.md).
+
 ## Beginner Course
 
 - [Introduction](beginner-course/docs/Introduction.md)
