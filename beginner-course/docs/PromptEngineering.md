@@ -130,4 +130,50 @@ Mastering prompt engineering with ChatGPT requires practice and understanding of
 
 Whether you're using the free or paid version of ChatGPT, refining your skills in prompt engineering will enhance the quality of your interactions with AI, allowing you to unlock its full potential for various applications.
 
+## Test Your Knowledge
 
+**Question 1:** What is the main goal of prompt engineering?  
+A) To reduce the complexity of AI models  
+B) To craft effective input queries for AI models  
+C) To eliminate the need for AI  
+D) To automate prompt creation  
+<details>
+  <summary>Reveal answer</summary>
+  Correct Answer: B) To craft effective input queries for AI models.
+</details>
+
+---
+
+**Question 2:** Which aspect is NOT important in structuring prompts?  
+A) Specificity  
+B) Clarity  
+C) Ambiguity  
+D) Context  
+<details>
+  <summary>Reveal answer</summary>
+  Correct Answer: C) Ambiguity.
+</details>
+
+---
+
+**Question 3:** What is an example of a well-structured prompt?  
+A) "Explain photosynthesis."  
+B) "What is photosynthesis?"  
+C) "In 150 words or less, explain the process of photosynthesis, focusing on chlorophyll."  
+D) "Tell me about plants."  
+<details>
+  <summary>Reveal answer</summary>
+  Correct Answer: C) "In 150 words or less, explain the process of photosynthesis, focusing on chlorophyll."
+</details>
+
+---
+
+**Question 4:** What is a key difference between the free and paid versions of ChatGPT?  
+A) The free version is slower.  
+B) The paid version can handle more complex queries.  
+C) The free version has better accuracy.  
+D) The paid version cannot summarize text.  
+<details>
+  <summary>Reveal answer</summary>
+  Correct Answer: B) The paid version can handle more complex queries.
+</details>

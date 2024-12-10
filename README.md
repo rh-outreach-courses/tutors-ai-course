@@ -1,9 +1,18 @@
 # Tutors AI course
 
+To complement the structured course below try out some of these [resources](Resources.md).
+
 ## Beginner Course
 
-- [Introduction](docs/00.Introduction.md)
-- [AI Models](docs/01.AI%20Models.md)
-- [Prompt Engineering](docs/02.Prompt%20Engineering.md)
-- [Caveats of AI](docs/03.Caveats%20of%20AI.md)
-- [Next Steps](docs/04.Next%20Steps.md)
+- [Introduction](beginner-course/docs/Introduction.md)
+- [AI Models](beginner-course/docs/AIModels.md)
+- [Prompt Engineering](beginner-course/docs/PromptEngineering.md)
+- [Caveats of AI](beginner-course/docs/AICaveats.md)
+- [Next Steps](beginner-course/docs/NextSteps.md)
+
+## Intermediate Course
+
+- [AI Labs with Podman](intermediate-course/docs/Podman.md)
+- [Introduction to Datasets](intermediate-course/docs/DatasetIntro.md)
+- [Create Your Own Dataset](intermediate-course/docs/CreateDataset.md)
+- [Kaggle and Notebooks](intermediate-course/docs/Kaggle+Notebooks.md)
