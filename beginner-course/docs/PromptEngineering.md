@@ -1,26 +1,33 @@
 # Prompt Engineering
 
 ## Introduction
-In the world of Artificial Intelligence (AI), prompt engineering has emerged as one of the most critical skills. It refers to the practice of crafting precise and effective input queries to guide AI models like ChatGPT to provide optimal and useful responses. Whether you're working with the free or paid versions of ChatGPT, knowing how to use it well can significantly improve the quality of results.
+In the world of Artificial Intelligence (AI), prompt engineering has emerged as one of the most critical skills. It refers to the practice of crafting precise and effective input queries to guide AI models, like ChatGPT, to provide optimal and useful responses. Or in other words, the better you phrase a question to the model, the better its response will be.
 
-This chapter will walk you through the essentials of prompt engineering, showing how to utilize ChatGPT effectively. We will cover the structure of prompts, provide guidance on ensuring clear context, and discuss the importance of awareness—both about the topic and the model. We'll also touch on the differences between paid and free versions of ChatGPT.
+This chapter will walk you through the essentials of prompt engineering, showing how to utilize large language models (LLMs) effectively. We will cover the structure of prompts, provide guidance on ensuring clear context, and discuss the importance of awareness — both about the topic and the model. We'll also touch on the differences between different models.
 
-## How to Use ChatGPT  
-Before diving into prompt engineering, it's important to understand how ChatGPT works. ChatGPT is an AI model trained to understand and generate human-like text based on the input it receives. The core task is communication, and the effectiveness of this communication depends largely on how well the instructions (prompts) are formulated.
+These models rely on your ability as the prompt engineer to learn from a wide variety of input data which it was trained on, and return a minimally biased, accurate response to whatever your question may be. Consider each LLM not as a magical black box that knows everything, but rather a massive database of raw queries, which needs to be converted to meaningful responses.
 
-Here’s a step-by-step guide to using ChatGPT:
 
-### Step 1: Open the ChatGPT Interface  
-Whether you’re using the free or paid version, open the chat window provided by the platform.
+## Use Cases
+As generative AI becomes more accessible, organizations are discovering new and innovative ways to use prompt engineering to solve real-world problems.
 
-### Step 2: Input a Prompt  
-Type in your prompt, which can range from simple questions to complex queries. The more specific and structured the prompt, the better the results.
+Chatbots
+Prompt engineering is a powerful tool to help AI chatbots generate contextually relevant and coherent responses in real-time conversations. Chatbot developers can ensure the AI understands user queries and provides meaningful answers by crafting effective prompts.
 
-### Step 3: Evaluate the Response  
-Once ChatGPT responds, review the output to see if it aligns with your expectations. If necessary, refine your prompt for better clarity or results.
 
-### Step 4: Iterate
-If the response isn’t what you were looking for, tweak your prompt and try again. Learning to refine and iterate on your prompts is key to effective use of ChatGPT.
+Healthcare
+In healthcare, prompt engineers instruct AI systems to summarize medical data and develop treatment recommendations. Effective prompts help AI models process patient data and provide accurate insights and recommendations.
+
+Software development
+Prompt engineering plays a role in software development by using AI models to generate code snippets or provide solutions to programming challenges. Using prompt engineering in software development can save time and assist developers in coding tasks.
+
+Software engineering
+Because generative AI systems are trained in various programming languages, prompt engineers can streamline the generation of code snippets and simplify complex tasks. By crafting specific prompts, developers can automate coding, debug errors, design API integrations to reduce manual labor and create API-based workflows to manage data pipelines and optimize resource allocation.
+
+ Cybersecurity and computer science
+Prompt engineering is used to develop and test security mechanisms. Researchers and practitioners leverage generative AI to simulate cyberattacks and design better defense strategies. Additionally, crafting prompts for AI models can aid in discovering vulnerabilities in software.
+
+
 
 ## Understanding Prompt Engineering
 Prompt engineering refers to the process of crafting precise queries to get the best possible output from an AI like ChatGPT. The key idea is that how you ask a question or give instructions influences the response you’ll receive.
@@ -78,7 +85,9 @@ Example of a prompt with added context:
 Providing context ensures that ChatGPT tailors its response to your specific needs.
 
 **Awareness in Prompt Engineering**  
-Awareness is essential in prompt engineering. It can be divided into two types: 
+Awareness is essential in prompt engineering. Using AI tools like LLM’s without understanding exactly what their limitations are will almost definitely leave you in deep water with your university, team mates or colleagues. There is no all knowing, unbiased AI agent which you can put all your faith in. Using this to feed you answers which you have no intention of fact checking sets you up for failure. Always be honest about when and where you use these models for help, so not only you can pin point where possible errors are, but so can your colleagues.
+
+Anyway, let's delve into 2 key things to be aware of when using these models: 
 
 - Awareness of limitations  
 - Topical awareness
@@ -100,8 +109,8 @@ If you're querying ChatGPT on a technical or complex subject (e.g., "quantum com
 
 For creative topics (e.g., asking for ideas or storytelling), having awareness of the genre or style you want will guide how you frame your prompt. For instance, specifying “a futuristic sci-fi setting” will steer the AI towards generating creative ideas within that domain.
 
-## Differences Between Paid and Free Versions of ChatGPT
-While both the free and paid versions of ChatGPT provide access to powerful language models, there are key differences between them.
+## Differences Between Paid and Free Versions of ChatGPT - Case Study
+While both the free and paid versions of ChatGPT provide access to powerful language models, there are key differences between them. Lets look into it further and see what you are actually getting extra by opting into a subscription to ChatGPT.
 
 ### **ChatGPT Versions: Paid vs. Free**
 
@@ -117,8 +126,8 @@ There are two versions of ChatGPT: the **free version** (which runs on GPT-3.5) 
 The paid version offers more powerful capabilities, including improved accuracy and the ability to handle more complex prompts. 
 
 ## Conclusion
-Mastering prompt engineering with ChatGPT requires practice and understanding of the tool’s potential and limitations. Structuring prompts effectively, providing context, and being aware of both the topic and the AI’s constraints are essential for achieving the best results.
+Mastering prompt engineering with ChatGPT requires practice and understanding of the tool’s potential and limitations. Structuring prompts effectively, providing context, and being aware of both the topic and the AI’s constraints are essential for achieving the best results. Practice your prompt engineering skills [here](https://artsandculture.google.com/experiment/say-what-you-see/jwG3m7wQShZngw). Draft a prompt to generate an image as close to the original image as possible and get a rating on your accuracy.
 
 Whether you're using the free or paid version of ChatGPT, refining your skills in prompt engineering will enhance the quality of your interactions with AI, allowing you to unlock its full potential for various applications.
 
-Prompt engineering is a concept nt spercifi to platdform
+
