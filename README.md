@@ -12,7 +12,6 @@ To complement the structured course below try out some of these [resources](Reso
 
 ## Intermediate Course
 
-- [AI Labs with Podman](intermediate-course/docs/Podman.md)
 - [Introduction to Datasets](intermediate-course/docs/DatasetIntro.md)
 - [Create Your Own Dataset](intermediate-course/docs/CreateDataset.md)
 - [Kaggle and Notebooks](intermediate-course/docs/Kaggle+Notebooks.md)
