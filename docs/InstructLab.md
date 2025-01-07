@@ -2,7 +2,7 @@
 
 ## What is InstructLab?
 
-InstructLab is a core element of [Red Hat Enterprise Linux AI]([https://www.redhat.com/en/blog/what-is-instructlab](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/ai)). It's an open source community project that provides a simpler and more accessible way to improve a large language model [(LLM)]([https://www.redhat.com/en/blog/what-is-instructlab](https://www.redhat.com/en/topics/ai/what-are-large-language-models)) used in generative artificial intelligence [(GenAI)](https://www.redhat.com/en/topics/ai/what-is-generative-ai) applications.
+InstructLab is a core element of [Red Hat Enterprise Linux AI](https://www.redhat.com/en/blog/what-is-instructlab](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/ai)). It's an open source community project that provides a simpler and more accessible way to improve a large language model [(LLM)](https://www.redhat.com/en/topics/ai/what-are-large-language-models) used in generative artificial intelligence [(GenAI)](https://www.redhat.com/en/topics/ai/what-is-generative-ai) applications.
 
 Launched by Red Hat and IBM at the 2024 Red Hat Summit, InstructLab not only brings a truly open source development model to LLMs, but it also gives people with minimal technical experience a way to contribute to AI model development and continual improvement.
 
