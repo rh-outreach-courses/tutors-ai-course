@@ -37,7 +37,7 @@ Navigate [here](https://ui.instructlab.ai/) to contribute a skill.
 1. Request access (this should be granted almost immediately).
 2. Once you have access, navigate to the “Contribute Skill” page.
 
-![InstructLab Homepage](intermediate-course/images/Screenshot 2024-11-19 at 15.36.54.png)
+![InstructLab Homepage](../images/Screenshot 2024-11-19 at 15.36.54.png)
 
 From here you should see a form which you fill in and submit. 
 
