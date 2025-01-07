@@ -15,7 +15,7 @@ To complement the structured course below try out some of these [resources](Reso
 - [Introduction to Datasets](intermediate-course/docs/DatasetIntro.md)
 - [Create Your Own Dataset](intermediate-course/docs/CreateDataset.md)
 - [Kaggle and Notebooks](intermediate-course/docs/Kaggle+Notebooks.md)
-
+- [Instruct Lab](intermediate-course/docs/Instructlab.md)
 
 ## Scope of this AI Course
 
